@@ -1,0 +1,12 @@
+.oferta,oferta2,oferta4{
+    margin: 0px;
+  border: 1px solid #ccc;
+  
+  width: 1px;
+}
+.img-fluid{
+    width: auto;
+  height: auto;
+  border-radius:1px;
+  border:1px solid #666;
+}

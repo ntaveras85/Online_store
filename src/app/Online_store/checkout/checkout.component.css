@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    align-items: center;
+    padding: 1rem 5rem;    
+}
+/*todo esto va dentro de container*/
+.item{
+  flex: 1 1 auto;   
+}
+.sr-only{
+    right: 50%;
+}
+.form{
+    width: 100%;
+}
+.form__element{
+    padding: 5px 0px 25px 2px;
+    width: 100%;
+    margin-bottom: .5rem;
+}
+/*Hasta aqui. form__element hacia arriba*/
+
+/*la clase container lleva dentro la clase button*/
+.containers__button{
+    margin: 0 auto;
+    display: block;
+    width: 40%;
+    /*margin-top: 4rem;*/
+}
+button {
+    width: 100%;
+}
+
