@@ -21,6 +21,7 @@ import { MatButtonModule } from '@angular/material/button';
 import { ProductOfertaComponent } from './Online_store/products/product-oferta/product-oferta.component';
 import { DetailsComponent } from './Online_store/checkout/details/details.component';
 import { ThankYouPageComponent } from './Online_store/checkout/thank-you-page/thank-you-page.component';
+import { NtaverasComponent } from './Online_store/ntaveras/ntaveras.component';
 
 
 //Aqui lo declaro, para que los demas los puedan ver
@@ -34,7 +35,8 @@ import { ThankYouPageComponent } from './Online_store/checkout/thank-you-page/th
     CheckoutComponent,
     ProductOfertaComponent,
     DetailsComponent,
-    ThankYouPageComponent
+    ThankYouPageComponent,
+    NtaverasComponent
   ],
   
   imports: [
